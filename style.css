@@ -51,7 +51,6 @@ body > p {
 
 .page-header{
 	background-color:white;
-
 }
 
 .footer-wrap{
@@ -71,4 +70,10 @@ body > p {
 .footer-text{
 	color: white;
 	font-weight:400; 
+}
+
+.card-blog {
+	background-color: white;
+	height: 200px;
+	width: 100px;
 }
